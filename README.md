@@ -12,3 +12,6 @@ Karen González Ugalde A01411597
 Federico Medina García Corral A01721441
 
 Mario Aquilino Tejeda Zayas A00832138
+
+
+Se Van a trabajar actividades en equipo relacionadas a Topological Data Analysis
