@@ -5,6 +5,8 @@ Equipo 1:
 
 Patrick Galan Cardenas A01730687
 
+José Emilio Derbez Safie A01781313
+
 Eduardo Emiliano Porcayo Arrieta A01423285
 
 Karen González Ugalde A01411597
